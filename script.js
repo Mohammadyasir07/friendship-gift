@@ -1,0 +1,1 @@
+function check(){if(document.getElementById('pw').value==='BestFriend2026'){login.style.display='none';app.style.display='block';}else err.textContent='Wrong password';}
